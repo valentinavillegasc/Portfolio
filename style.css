@@ -350,3 +350,34 @@ article {
 article .icon {
   cursor: default;
 }
+
+/* Projects section*/
+
+#projects {
+  position: relative;
+}
+
+.color-container {
+  border-color: rgb(163, 163, 163);
+  background-color: rgb(250, 250, 250);
+}
+
+.project-img {
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
+}
+
+.project-title {
+  margin: 1rem;
+  color: black;
+}
+
+.project-description {
+  margin-bottom: 2rem;
+}
+
+.project-btn {
+  color: black;
+  border-color: rgb(163, 163, 163);
+}
